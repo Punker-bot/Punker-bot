@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Punker-bot
 - 👀 I’m interested in spaital software (ArcGIS Pro, AGOL, Enterprise) for tool creation, automation, analytics, and visualization.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything in the realm of spatial sciences. 
+- 💞️ I’m looking to collaborate on anything within spatial sciences. 
 - 📫 How to reach me https://www.linkedin.com/in/shelbychasteen
 
 <!---
